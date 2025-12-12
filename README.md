@@ -9,18 +9,9 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" style="border-radius: 15px;"/>](https://www.facebook.com/trishamae.gapuz)
-<br><br>
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" style="border-radius: 15px;"/>](https://www.linkedin.com/in/trisha-mae-gapuz-614649357/
-<br><br>
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50" style="border-radius: 15px;"/>](https://www.instagram.com/gapuztrishamae/)
-
-</div>
-
+[![Facebook](https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png)](https://www.facebook.com/trishamae.gapuz)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/trisha-mae-gapuz-614649357/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gapuztrishamae/)
 
 ## 🖥️ Tech Stack
 
