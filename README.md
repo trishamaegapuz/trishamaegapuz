@@ -9,7 +9,7 @@
 
 # 🌐 Connect with Me
 
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/trishamae.gapuz)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/trishamae.gapuz) 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/trisha-mae-gapuz-614649357/)  
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gapuztrishamae/)
 
